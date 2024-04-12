@@ -1,0 +1,3 @@
+This repo have 2 classes
+one class act as a observer to scan a given folder every 5 sec for new file and id a new file is detected
+the absolute path of that file is send to the thread which reads the file and save the data to the DB
